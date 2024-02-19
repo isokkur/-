@@ -1,0 +1,15 @@
+C:\Users\mihaylovala\source\repos\exceptions2\exceptions2\bin\Debug\net6.0\exceptions2.exe
+C:\Users\mihaylovala\source\repos\exceptions2\exceptions2\bin\Debug\net6.0\exceptions2.deps.json
+C:\Users\mihaylovala\source\repos\exceptions2\exceptions2\bin\Debug\net6.0\exceptions2.runtimeconfig.json
+C:\Users\mihaylovala\source\repos\exceptions2\exceptions2\bin\Debug\net6.0\exceptions2.dll
+C:\Users\mihaylovala\source\repos\exceptions2\exceptions2\bin\Debug\net6.0\exceptions2.pdb
+C:\Users\mihaylovala\source\repos\exceptions2\exceptions2\obj\Debug\net6.0\exceptions2.csproj.AssemblyReference.cache
+C:\Users\mihaylovala\source\repos\exceptions2\exceptions2\obj\Debug\net6.0\exceptions2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihaylovala\source\repos\exceptions2\exceptions2\obj\Debug\net6.0\exceptions2.AssemblyInfoInputs.cache
+C:\Users\mihaylovala\source\repos\exceptions2\exceptions2\obj\Debug\net6.0\exceptions2.AssemblyInfo.cs
+C:\Users\mihaylovala\source\repos\exceptions2\exceptions2\obj\Debug\net6.0\exceptions2.csproj.CoreCompileInputs.cache
+C:\Users\mihaylovala\source\repos\exceptions2\exceptions2\obj\Debug\net6.0\exceptions2.dll
+C:\Users\mihaylovala\source\repos\exceptions2\exceptions2\obj\Debug\net6.0\refint\exceptions2.dll
+C:\Users\mihaylovala\source\repos\exceptions2\exceptions2\obj\Debug\net6.0\exceptions2.pdb
+C:\Users\mihaylovala\source\repos\exceptions2\exceptions2\obj\Debug\net6.0\exceptions2.genruntimeconfig.cache
+C:\Users\mihaylovala\source\repos\exceptions2\exceptions2\obj\Debug\net6.0\ref\exceptions2.dll
